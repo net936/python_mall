@@ -1,5 +1,5 @@
 # guilv
-最新版贵旅signcode算法, 包括js版和python版。
+最新版贵旅signcode算法, __S__值, 下单参数，多线程策略， 包括js版和python版。
 
 
 ## 答谢作者
