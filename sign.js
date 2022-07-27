@@ -297,7 +297,7 @@ burp0_data = {
     "deviceId":"395af7b8-f1fe-34a1-b4cf-f11a9457db47",
     "encrypt":"1",
     "timestamp":"1628651428560",
-    "version":"2.4.0"
+    "version":"3.2.0"
 }
 
 // wx: lengqin1024
