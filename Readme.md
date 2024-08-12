@@ -12,9 +12,6 @@
 演示地址：[https://mall.gitapp.cn](https://mall.gitapp.cn)
 
 
-## 源码下载
-
-https://github.com/geeeeeeeek/python_mall
 
 
 ## 主要功能
