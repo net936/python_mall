@@ -139,3 +139,10 @@ npm run dev
 
 答：管理员账号密码是：admin123 / admin123
 
+## vps推荐
+
+[低价vps服务区汇总](https://net936.blogspot.com/2026/05/2026vps-6.html)
+
+
+
+
